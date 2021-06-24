@@ -1,0 +1,66 @@
+*{
+    padding: 0px;
+    text-decoration: none;
+
+
+}
+.father{
+background-color:#dadada;
+text-decoration: none;
+padding: 5em;
+
+
+}
+.espacio{
+    
+}
+
+.logo{
+    width: 317px;
+    
+    margin-bottom: 2em;
+
+    
+}
+
+
+.border_left{
+    border-left: .8px solid #c7c7c7;
+
+}
+
+.consulta{
+ list-style: none;
+  text-decoration: none !important;
+  position: relative;
+display: inline;
+top: -1.5em;
+ 
+
+  
+   
+}
+
+h5{
+    color: #6b6b6b;
+
+    
+}
+
+li{
+    list-style-type: none;
+    text-align: left;
+}
+a{
+    text-decoration: none !important;
+    color: #3c3c3c;
+    
+}
+
+p{
+    color: #3c3c3c;;
+}
+
+.leyenda{
+    
+}
