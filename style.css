@@ -8,12 +8,11 @@
 background-color:#dadada;
 text-decoration: none;
 padding: 5em;
+height: 500px;
 
 
 }
-.espacio{
-    
-}
+
 
 .logo{
     width: 317px;
@@ -56,11 +55,28 @@ a{
     color: #3c3c3c;
     
 }
+a:hover{
+    color: #e20515;
+}
+
+
 
 p{
     color: #3c3c3c;;
 }
 
 .leyenda{
+    background-color: #350004 ;
+    text-align: center;
+    padding: .5em;
+    padding-bottom: 0%;
     
+
+}
+
+.white{
+    color: #f7f2f2;
+}
+.min{
+    font-size: 10pt;
 }
